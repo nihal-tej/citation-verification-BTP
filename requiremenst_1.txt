@@ -1,0 +1,34 @@
+
+# Orchestration and schemas
+langgraph
+pydantic
+pyyaml
+python-dotenv
+structlog
+tenacity
+
+# Data and legal documents
+pandas
+numpy
+pymupdf
+rapidfuzz
+python-dateutil
+orjson
+
+# NLP and model training
+torch
+transformers
+datasets
+scikit-learn
+sentence-transformers
+
+# Retrieval and graph
+rank-bm25
+networkx
+
+# Evaluation and testing
+scipy
+statsmodels
+matplotlib
+pytest
+ruff

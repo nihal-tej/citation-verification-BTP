@@ -1,0 +1,151 @@
+act,section,title,ipc_equivalent,chapter_key,chapter,source,law_version
+BNS,3(5),Acts done by several persons in furtherance of common intention,IPC 34,GEN,"General explanations, abetment, conspiracy, attempt",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,3(6),Act criminal by reason of being done with criminal knowledge or intention,IPC 35,GEN,"General explanations, abetment, conspiracy, attempt",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,45,Abetment of a thing,IPC 107,GEN,"General explanations, abetment, conspiracy, attempt",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,46,Abettor,IPC 108,GEN,"General explanations, abetment, conspiracy, attempt",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,49,Punishment of abetment where act abetted is committed,IPC 109,GEN,"General explanations, abetment, conspiracy, attempt",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,54,Abettor present when offence is committed,IPC 114,GEN,"General explanations, abetment, conspiracy, attempt",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,61,Criminal conspiracy,"IPC 120A, 120B",GEN,"General explanations, abetment, conspiracy, attempt",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,62,Punishment for attempting to commit offences,IPC 511,GEN,"General explanations, abetment, conspiracy, attempt",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,63,Rape (definition),IPC 375,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,64,Punishment for rape,IPC 376,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,65,Punishment for rape in certain cases (victim under sixteen or twelve),"IPC 376(3), 376AB",WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,66,Punishment for causing death or persistent vegetative state of victim,IPC 376A,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,67,Sexual intercourse by husband upon his wife during separation,IPC 376B,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,68,Sexual intercourse by a person in authority,IPC 376C,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,69,Sexual intercourse by employing deceitful means,New offence,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,70,Gang rape,"IPC 376D, 376DA, 376DB",WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,71,Punishment for repeat offenders,IPC 376E,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,72,Disclosure of identity of victim of certain offences,IPC 228A,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,74,Assault or use of criminal force to woman with intent to outrage her modesty,IPC 354,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,75,Sexual harassment,IPC 354A,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,76,Assault or use of criminal force to woman with intent to disrobe,IPC 354B,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,77,Voyeurism,IPC 354C,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,78,Stalking,IPC 354D,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,79,"Word, gesture or act intended to insult the modesty of a woman",IPC 509,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,80,Dowry death,IPC 304B,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,81,Cohabitation caused by deceitfully inducing belief of lawful marriage,IPC 493,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,82,Marrying again during lifetime of husband or wife,"IPC 494, 495",WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,84,Enticing or taking away or detaining with criminal intent a married woman,IPC 498,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,85,Husband or relative of husband subjecting a woman to cruelty,IPC 498A,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,86,Cruelty defined,IPC 498A Explanation,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,87,"Kidnapping, abducting or inducing woman to compel her marriage",IPC 366,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,88,Causing miscarriage,IPC 312,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,89,Causing miscarriage without woman's consent,IPC 313,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,93,Exposure and abandonment of child under twelve years,IPC 317,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,94,Concealment of birth by secret disposal of dead body,IPC 318,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,95,"Hiring, employing or engaging a child to commit an offence",New offence,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,96,Procuration of child,IPC 366A,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,98,Selling child for purposes of prostitution,IPC 372,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,99,Buying child for purposes of prostitution,IPC 373,WOM,Offences against woman and child,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,100,Culpable homicide (definition),IPC 299,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,101,Murder (definition),IPC 300,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,103,Punishment for murder; murder by a group on specified grounds,IPC 302,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,105,Punishment for culpable homicide not amounting to murder,IPC 304,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,106,Causing death by negligence; failure to report after causing death by rash driving,IPC 304A,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,107,Abetment of suicide of child or person of unsound mind,IPC 305,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,108,Abetment of suicide,IPC 306,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,109,Attempt to murder,IPC 307,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,110,Attempt to commit culpable homicide,IPC 308,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,111,Organised crime,New offence,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,112,Petty organised crime,New offence,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,113,Terrorist act,New offence,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,114,Hurt (definition),IPC 319,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,115,Voluntarily causing hurt,"IPC 321, 323",BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,116,Grievous hurt (definition),IPC 320,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,117,Voluntarily causing grievous hurt,"IPC 322, 325",BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,118,Voluntarily causing hurt or grievous hurt by dangerous weapons or means,"IPC 324, 326",BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,119,Voluntarily causing hurt or grievous hurt to extort property,"IPC 327, 329",BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,120,Voluntarily causing hurt or grievous hurt to extort confession,"IPC 330, 331",BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,121,Voluntarily causing hurt or grievous hurt to deter public servant from duty,"IPC 332, 333",BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,122,Voluntarily causing hurt or grievous hurt on provocation,"IPC 334, 335",BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,123,Causing hurt by means of poison with intent to commit an offence,IPC 328,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,124,Voluntarily causing grievous hurt by use of acid,"IPC 326A, 326B",BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,125,Act endangering life or personal safety of others,"IPC 336, 337, 338",BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,126,Wrongful restraint,"IPC 339, 341",BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,127,Wrongful confinement,"IPC 340, 342-348",BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,128,Force (definition),IPC 349,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,129,Criminal force (definition),IPC 350,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,130,Assault (definition),IPC 351,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,131,Punishment for assault or criminal force otherwise than on grave provocation,IPC 352,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,132,Assault or criminal force to deter public servant from discharge of duty,IPC 353,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,133,Assault or criminal force with intent to dishonour a person,IPC 355,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,134,Assault or criminal force in attempt to commit theft of property carried by a person,IPC 356,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,135,Assault or criminal force in attempt wrongfully to confine a person,IPC 357,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,137,Kidnapping,"IPC 359, 360, 361, 363",BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,138,Abduction,IPC 362,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,139,Kidnapping or maiming a child for purposes of begging,IPC 363A,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,140,Kidnapping or abducting in order to murder or for ransom,"IPC 364, 364A, 365, 367",BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,142,Wrongfully concealing or confining a kidnapped or abducted person,IPC 368,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,143,Trafficking of person,IPC 370,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,144,Exploitation of a trafficked person,IPC 370A,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,146,Unlawful compulsory labour,IPC 374,BODY,Offences affecting the human body,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,189,Unlawful assembly,"IPC 141, 143, 144, 145, 150, 151, 157, 158",TRAN,Offences against public tranquillity,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,190,Every member of unlawful assembly guilty of offence committed in prosecution of common object,IPC 149,TRAN,Offences against public tranquillity,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,191,Rioting,"IPC 146, 147, 148",TRAN,Offences against public tranquillity,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,192,Wantonly giving provocation with intent to cause riot,IPC 153,TRAN,Offences against public tranquillity,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,194,Affray,"IPC 159, 160",TRAN,Offences against public tranquillity,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,195,Assaulting or obstructing public servant when suppressing riot,IPC 152,TRAN,Offences against public tranquillity,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,196,"Promoting enmity between different groups on ground of religion, race, etc.",IPC 153A,TRAN,Offences against public tranquillity,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,197,"Imputations, assertions prejudicial to national integration",IPC 153B,TRAN,Offences against public tranquillity,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,270,Public nuisance,IPC 268,PUB,"Public health, safety, convenience, decency and morals",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,274,Adulteration of food or drink intended for sale,IPC 272,PUB,"Public health, safety, convenience, decency and morals",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,276,Adulteration of drugs,IPC 274,PUB,"Public health, safety, convenience, decency and morals",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,281,Rash driving or riding on a public way,IPC 279,PUB,"Public health, safety, convenience, decency and morals",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,285,Danger or obstruction in public way or line of navigation,IPC 283,PUB,"Public health, safety, convenience, decency and morals",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,288,Negligent conduct with respect to explosive substance,IPC 286,PUB,"Public health, safety, convenience, decency and morals",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,291,Negligent conduct with respect to animal,IPC 289,PUB,"Public health, safety, convenience, decency and morals",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,292,Punishment for public nuisance in cases not otherwise provided for,IPC 290,PUB,"Public health, safety, convenience, decency and morals",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,294,"Sale of obscene books, etc.",IPC 292,PUB,"Public health, safety, convenience, decency and morals",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,295,Sale of obscene objects to a child,IPC 293,PUB,"Public health, safety, convenience, decency and morals",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,296,Obscene acts and songs,IPC 294,PUB,"Public health, safety, convenience, decency and morals",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,297,Keeping lottery office,IPC 294A,PUB,"Public health, safety, convenience, decency and morals",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,298,Injuring or defiling place of worship with intent to insult religion,IPC 295,REL,Offences relating to religion,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,299,Deliberate and malicious acts intended to outrage religious feelings,IPC 295A,REL,Offences relating to religion,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,300,Disturbing religious assembly,IPC 296,REL,Offences relating to religion,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,301,Trespassing on burial places,IPC 297,REL,Offences relating to religion,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,302,Uttering words with deliberate intent to wound religious feelings,IPC 298,REL,Offences relating to religion,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,303,Theft,"IPC 378, 379",PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,304,Snatching,New offence,PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,305,"Theft in a dwelling house, means of transport or place of worship",IPC 380,PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,306,Theft by clerk or servant of property in possession of master,IPC 381,PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,307,"Theft after preparation made for causing death, hurt or restraint",IPC 382,PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,308,Extortion,IPC 383-389,PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,309,Robbery,"IPC 390, 392, 393, 394",PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,310,Dacoity,"IPC 391, 395, 396, 399, 400, 402",PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,311,Robbery or dacoity with attempt to cause death or grievous hurt,IPC 397,PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,312,Attempt to commit robbery or dacoity when armed with deadly weapon,IPC 398,PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,313,Punishment for belonging to gang of robbers or dacoits,IPC 401,PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,314,Dishonest misappropriation of property,IPC 403,PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,315,Dishonest misappropriation of property possessed by a deceased person,IPC 404,PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,316,Criminal breach of trust,IPC 405-409,PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,317,Stolen property,IPC 410-414,PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,318,Cheating,"IPC 415, 417, 418, 420",PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,319,Cheating by personation,"IPC 416, 419",PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,320,Dishonest removal or concealment of property to prevent distribution among creditors,IPC 421,PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,323,Dishonest or fraudulent removal or concealment of property,IPC 424,PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,324,Mischief,"IPC 425, 426, 427, 440",PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,325,Mischief by killing or maiming animal,"IPC 428, 429",PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,326,"Mischief by injury, inundation, fire or explosive substance",IPC 430-436,PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,329,Criminal trespass and house-trespass,"IPC 441, 442, 447, 448",PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,330,House-trespass and house-breaking (definitions),"IPC 443, 445",PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,331,Punishment for house-trespass or house-breaking,IPC 453-460,PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,332,House-trespass in order to commit an offence,"IPC 449, 450, 451",PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,333,"House-trespass after preparation for hurt, assault or wrongful restraint",IPC 452,PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,334,Dishonestly breaking open receptacle containing property,"IPC 461, 462",PROP,Offences against property,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,335,Making a false document,IPC 464,DOC,Offences relating to documents and property marks,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,336,Forgery; forgery for cheating; forgery for harming reputation,"IPC 463, 465, 468, 469",DOC,Offences relating to documents and property marks,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,337,Forgery of record of Court or of public register,IPC 466,DOC,Offences relating to documents and property marks,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,338,"Forgery of valuable security, will, etc.",IPC 467,DOC,Offences relating to documents and property marks,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,339,Possession of forged document described in section 337 or 338,IPC 474,DOC,Offences relating to documents and property marks,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,340,Forged document or electronic record and using it as genuine,"IPC 470, 471",DOC,Offences relating to documents and property marks,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,343,Fraudulent cancellation or destruction of will or valuable security,IPC 477,DOC,Offences relating to documents and property marks,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,344,Falsification of accounts,IPC 477A,DOC,Offences relating to documents and property marks,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,345,Property mark; using a false property mark,"IPC 479, 481, 482",DOC,Offences relating to documents and property marks,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,347,Counterfeiting a property mark,"IPC 483, 484",DOC,Offences relating to documents and property marks,NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,351,Criminal intimidation,"IPC 503, 506, 507",INT,"Criminal intimidation, insult, annoyance and defamation",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,352,Intentional insult with intent to provoke breach of peace,IPC 504,INT,"Criminal intimidation, insult, annoyance and defamation",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,353,Statements conducing to public mischief,IPC 505,INT,"Criminal intimidation, insult, annoyance and defamation",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,354,Act caused by inducing belief of Divine displeasure,IPC 508,INT,"Criminal intimidation, insult, annoyance and defamation",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,355,Misconduct in public by a drunken person,IPC 510,INT,"Criminal intimidation, insult, annoyance and defamation",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
+BNS,356,Defamation,"IPC 499, 500, 501, 502",INT,"Criminal intimidation, insult, annoyance and defamation",NCRB CyTrain BNS-IPC correspondence table,IN-CRIM-2024-07-01
