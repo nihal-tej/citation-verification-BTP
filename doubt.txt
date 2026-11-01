@@ -1,0 +1,20 @@
+Your revised implementation plan primarily focuses on legal citation verification.
+
+Its central idea is:
+A citation may point to the correct judgment and paragraph, but that paragraph may represent a party's argument or factual account rather than the court's own reasoning.
+
+For example:
+- A legal proposition claims that a particular action is unlawful.
+- A citation points to paragraph 25 of Case X.
+- Paragraph 25 records the petitioner's argument that the action is unlawful.
+- But the court subsequently rejects that argument.
+Your existing verifier is designed to identify this mismatch.
+
+It includes:
+- Citation and pinpoint resolution.
+- Rhetorical-role identification.
+- Claim-type classification.
+- Legal support/contradiction checking.
+- Statutory applicability checking.
+- PASS, REJECT, or ABSTAIN decisions.
+This is a valid research problem. Your document also proposes a benchmark called InCite-IN to evaluate citation verification

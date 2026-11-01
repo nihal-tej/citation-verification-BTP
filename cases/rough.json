@@ -1,0 +1,181 @@
+
+{
+  "identification": {
+    "case_id": "SC_2025_2025_INSC_1113",
+    "case_title": "Mamman Khan v. State of Haryana",
+    "normalized_case_title": "mamman khan v state of haryana",
+    "case_number": "Criminal Appeal No. 4002 of 2025",
+    "normalized_case_number": "criminal appeal 4002 2025",
+    "neutral_citation": "2025 INSC 1113",
+    "reporter_citations": [
+      "[2025] 10 S.C.R. 131"
+    ],
+    "decision_date": "2025-09-12",
+    "document_type": "Supreme Court judgment",
+    "language": "English"
+  },
+
+  "court_details": {
+    "court_name": "Supreme Court of India",
+    "normalized_court_name": "supreme court of india",
+    "court_level": "Supreme Court",
+    "jurisdiction": "Criminal appellate jurisdiction",
+    "judges": [
+      "J.B. Pardiwala",
+      "R. Mahadevan"
+    ],
+    "author_judge": "R. Mahadevan"
+  },
+
+  "parties": {
+    "appellants": [
+      "Mamman Khan"
+    ],
+    "respondents": [
+      "State of Haryana"
+    ],
+    "other_parties": [
+      "Co-accused in FIR Nos. 149 and 150 of 2023"
+    ]
+  },
+
+  "proceedings": {
+    "case_type": "Criminal appeal",
+    "originating_case_numbers": [
+      "CRM-M No. 61515 of 2024",
+      "CRM-M No. 61516 of 2024",
+      "SLP (Crl.) No. 18089 of 2024",
+      "SLP (Crl.) Diary No. 58851 of 2024"
+    ],
+    "connected_cases": [
+      "Criminal Appeal No. 4003 of 2025"
+    ],
+    "procedural_history": [
+      "FIR Nos. 149 and 150 of 2023 were registered at Police Station Nagina, District Nuh.",
+      "The Additional Sessions Judge, Nuh, ordered segregation of the appellant's trial on 28 August 2024 and 2 September 2024.",
+      "The Punjab and Haryana High Court dismissed the appellant's petitions on 12 December 2024.",
+      "The appellant challenged the segregation orders before the Supreme Court.",
+      "The Supreme Court set aside the impugned orders and remitted the matter for joint trial."
+    ]
+  },
+
+  "legal_context": {
+    "acts_and_statutes": [
+      "Code of Criminal Procedure, 1973",
+      "Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "Indian Penal Code, 1860",
+      "Constitution of India"
+    ],
+    "legal_provisions": [
+      "Code of Criminal Procedure, 1973, Sections 218–223",
+      "Code of Criminal Procedure, 1973, Section 482",
+      "Bharatiya Nagarik Suraksha Sanhita, 2023, Section 528",
+      "Constitution of India, Article 14",
+      "Constitution of India, Article 21",
+      "Constitution of India, Article 20(2)",
+      "Indian Penal Code, 1860, Sections 107, 120B, 148, 149, 153A, 201, 379A, 395, 397, 427, 436, 506",
+      "Indian Penal Code, 1860, Section 180 as stated for FIR No. 150"
+    ],
+    "subject_tags": [
+      "Criminal procedure",
+      "Joint trials",
+      "Separation of trials",
+      "Separate charge-sheet",
+      "Fair trial",
+      "Procedural fairness",
+      "Equality before law",
+      "Criminal cases involving legislators"
+    ],
+    "legal_issues": [
+      "Whether the appellant's trial could be separated from the co-accused solely because he was a sitting MLA.",
+      "Whether the trial court could direct the police to file a separate charge-sheet against the appellant.",
+      "Whether the segregation orders were justified by delay caused by the non-appearance of co-accused.",
+      "Whether the segregation violated procedural fairness and the right to a fair trial."
+    ],
+    "headnote": "The Supreme Court held that segregation of the appellant's trial solely on account of his political office was unsustainable. The matter was remitted for a joint trial.",
+    "keywords": [
+      "Segregation of trial",
+      "Joint trials",
+      "Sitting MLA",
+      "Separate charge-sheet",
+      "Overarching conspiracy",
+      "Interlinked evidence",
+      "Fair trial",
+      "Procedural fairness",
+      "Article 14",
+      "Article 21"
+    ]
+  },
+
+  "case_analysis": {
+    "case_summary": "The appellant, a sitting MLA, challenged orders directing a separate charge-sheet and separate trial in criminal proceedings arising from communal violence in Nuh, Haryana. The Supreme Court held that the segregation was not justified merely by the appellant's political status or the non-appearance of co-accused, particularly when the prosecution relied on common evidence and an overarching conspiracy. It set aside the impugned orders and directed a joint trial.",
+    "material_facts": [
+      "FIR Nos. 149 and 150 of 2023 concerned communal violence in Nuh District on 31 July 2023.",
+      "The appellant was accused alongside several other persons.",
+      "The trial court directed a separate charge-sheet and segregation of the appellant's trial in orders dated 28 August 2024 and 2 September 2024.",
+      "The prosecution relied on common witnesses and interlinked evidence.",
+      "The appellant was regularly appearing before the court."
+    ],
+    "arguments_appellant": [
+      "The alleged offences arose from the same transaction and should be tried jointly.",
+      "The appellant's political office was not a lawful ground for segregating his trial.",
+      "Separate trials could cause duplication, delay, prejudice, and inconsistent findings."
+    ],
+    "arguments_respondent": [
+      "A joint trial involving many accused persons had become cumbersome.",
+      "Repeated non-appearance of some co-accused caused delay.",
+      "Segregation would facilitate expeditious disposal of the appellant's case."
+    ],
+    "court_findings": [
+      "The segregation was ordered without a legally sufficient justification.",
+      "No finding established that a joint trial would prejudice the prosecution or necessarily delay proceedings.",
+      "The trial court exceeded its jurisdiction by directing the police to file a separate charge-sheet.",
+      "The appellant's political office could not justify preferential procedural treatment.",
+      "Separate trials risked duplication of witnesses, delay, and inconsistent findings."
+    ],
+    "legal_principles": [
+      "Joint or separate trials must be determined under the applicable statutory framework.",
+      "The decision must consider prejudice to the parties and potential judicial delay.",
+      "Procedural fairness and equality before law apply regardless of an accused person's public office.",
+      "Administrative expediency cannot override statutory and constitutional safeguards."
+    ],
+    "decision_reasoning": [
+      "The prosecution case relied on an overarching conspiracy and interlinked evidence.",
+      "The appellant's status as an MLA was not a legally recognized ground for segregation.",
+      "The orders were passed without notice or a meaningful opportunity of hearing.",
+      "Conducting separate trials would duplicate evidence and risk inconsistent findings."
+    ],
+    "distinguishing_factors": [
+      "The Court distinguished the use of Ashwini Kumar Upadhyay as authority for segregating the appellant's trial.",
+      "The Court explained that Nasib Singh concerned consolidation of distinct FIRs arising from unrelated acts and did not justify arbitrary segregation in this case."
+    ]
+  },
+
+  "outcome": {
+    "disposition": "Both criminal appeals disposed of; impugned orders set aside.",
+    "final_order": "The orders dated 28 August 2024 and 2 September 2024, as affirmed by the High Court, were set aside. The direction to file a separate charge-sheet and the consequential segregation were quashed.",
+    "relief_granted": [
+      "Challenge to segregation of the appellant's trial allowed."
+    ],
+    "directions_issued": [
+      "The matter was remitted to the trial court.",
+      "The trial court was directed to conduct a joint trial with the co-accused in accordance with law.",
+      "The trial court may regulate the schedule for expeditious disposal while preserving procedural safeguards and hearing concerned parties."
+    ]
+  },
+
+  "provenance": {
+    "source_pdf": "case_01(1).pdf",
+    "page_count": 21,
+    "extraction_method": "PDF text extraction; structured metadata summarized from the judgment",
+    "field_evidence": {
+      "case_title_and_citations": [1],
+      "judges_and_author": [1, 3],
+      "headnote_and_case_law_cited": [1, 2],
+      "case_history_and_facts": [3, 4, 5],
+      "court_analysis": [15, 19, 20],
+      "final_order": [21]
+    },
+    "review_status": "needs_review"
+  }
+}
